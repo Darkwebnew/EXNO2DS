@@ -152,12 +152,13 @@ corr=df.corr()
 sns.heatmap(corr,annot=True)
 ```
 
-
+![image](https://github.com/user-attachments/assets/8782f51a-654e-42c3-9f75-7d7b2cd73989)
 
 ```
 sns.pairplot(df)
 ```
 
+![image](https://github.com/user-attachments/assets/daef3d3f-3108-4f2a-896b-f6121952d4dc)
 
 # RESULT
 
